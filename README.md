@@ -20,7 +20,8 @@ However a smaller time step to a larger time step requires an averaging of the p
     For example, a list of a power values of 25MW, 25MW, 75MW, 75MW for each quarter hour in one hour will be averaged to 50MW for the hour.
     
 You have to include this conversion:
-Starting time step  | Starting time step
+
+Starting time step  | Ending time step
 ------------------- | ------------------
 60                  | 30
 60                  | 15
