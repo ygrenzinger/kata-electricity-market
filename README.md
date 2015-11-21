@@ -1,4 +1,5 @@
-# Power Time step converter
+# Kata electricity market
+
 The context of this Kata is the electricity market where you can trade it in term of power or energy. 
 Power is the metered net electrical transfer rate at any given moment and is measured in megawatts (MW).
 Energy is electricity that flows through a metered point for a given period and is measured in megawatt hours (MWh).
